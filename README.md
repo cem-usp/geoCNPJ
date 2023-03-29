@@ -13,3 +13,11 @@ Portanto, o objetivo desse repositório é criar um método para espacializar to
 ## Materiais e Métodos
 
 Localizar um ponto geográfico por um endereço não é algo trivial sobretudo para uma base de dados tão grande quanto o cadastro do CNPJ. Iremos utilizar recursos computacionais e frameworks de código aberto que utilizam dados abertos disponíveis para fazer essa espacialização. Sendo eles: [Pelias](https://pelias.io/) e [Nominatin](https://nominatim.org/)
+
+## Validação
+
+Será necessário uma validação amostral para podermos calcular o grau de confiança no processo de GeoCodificação, para isso será separada uma amostra para que seja feita uma busca manual pelo endereço afim de determinar a acurácia do processamento.
+
+## Resultados
+
+Os resultados assim que estiverem processados serão disponibilizados aqui nesse repositório ou em link indicado.
