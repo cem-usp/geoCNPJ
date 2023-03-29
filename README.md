@@ -4,7 +4,7 @@ Repositório para GeoCodificação dos endereços do CNPJ para todo o Brasil
 
 ## Motivação
 
-O Cadastro Nacional de Pessoa Jurídica (CNPJ) está disponível para download https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-jurdica---cnpj contendo os dados cadastrais de todas as empresas do BRasil. Esse dado é muito importante para a pesquisa pois contém entre outras informações o CNAE (CAdastro Nacional de Atividades Economicas). No entanto esses registros não estão espacializados, ou seja, não podem ser mapeados pelos seus locais, algo importante, por exemplo, para estudar acessibildiade a estabelecimentos de Saúde, Alimentação, Educação entre outros.
+O Cadastro Nacional de Pessoa Jurídica (CNPJ) está disponível para download https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-jurdica---cnpj contendo os dados cadastrais de todas as empresas do BRasil. Esse dado é muito importante para a pesquisa pois contém entre outras informações o CNAE (CAdastro Nacional de Atividades Economicas), cuja especificação pode ser consultada em https://ibge.gov.br/estatisticas/metodos-e-classificacoes/classificacoes-e-listas-estatisticas/9078-classificacao-nacional-de-atividades-economicas.html . No entanto esses registros não estão espacializados, ou seja, não podem ser mapeados pelos seus locais, algo importante, por exemplo, para estudar acessibildiade a estabelecimentos de Saúde, Alimentação, Educação entre outros.
 
 ## Objetivo
 
