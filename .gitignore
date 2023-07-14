@@ -1,3 +1,6 @@
 data/*
 results/estabelecimentos_alimentacao_sampa.csv
 results/estabelecimentos_alimentares_v01.gpkg
+results/estabelecimentos_alimentares_BR_all.gpkg
+results/estabelecimentos_alimentares_v02.gpkg
+results/*.gpkg
